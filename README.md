@@ -13,6 +13,8 @@ THIS GITHUB CONTAIN THE CODE THAT WAS USED TO ACHIEVE THIS.
 
 ![image](https://github.com/user-attachments/assets/8cc0e9ac-bf96-4c92-8a4e-fc86cb26dbeb)
 
+
+THE UPLOADED OBJECT FROM THE VSCODE TO THE AWSS3 BUCKET WHICH CONTAIN THE INDEX.HTML FILE AND THE ERROR.HTML
 ![image](https://github.com/user-attachments/assets/0b4ffa0d-3735-4f8d-bf35-6b34d86a0f1a)
 
 
